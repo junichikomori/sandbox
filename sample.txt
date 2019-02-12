@@ -1,2 +1,1 @@
-tst
 feature-sample1-work

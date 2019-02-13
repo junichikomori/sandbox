@@ -1,2 +1,3 @@
 tst
+feature-sample2
 feature-sample1-work
